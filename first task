@@ -1,0 +1,24 @@
+<html> 
+    <title>პირველი დავალება</title>
+    <head> პირველი დავალება </head>
+
+    <body>
+        <div style="background-color: blue;"> <H1>საქართველოში მიწისძვრა მოხდა</H1> <br> სა­ქარ­თვე­ლო­ში მი­წისძვრა მოხ­და. დე­და­მი­წის შემ­სწავ­ლელ მეც­ნი­ე­რე­ბა­თა ინ­სტი­ტუ­ტი­სა და სე­ის­მუ­რი მო­ნი­ტო­რინ­გის ეროვ­ნუ­ლი ცენ­ტრის პირ­ვე­ლა­დი ინ­ფორ­მა­ცი­ით, ეპი­ცენ­ტრი ქა­ლა­ქი მცხე­თა იყო. ძლი­ე­რი ბიძ­გე­ბი იგ­რძნო­ბო­და თბი­ლის­ში.
+            "დღეს, თბი­ლი­სის დრო­ით 08:00 სა­ათ­ზე, მცხე­თას­თან მოხ­და 4.4 (ML) მაგ­ნი­ტუ­დის სი­დი­დის მი­წისძვრა. მი­წისძვრა შეგ­რძნე­ბა­დი იყო თბი­ლი­სის მო­სახ­ლე­ო­ბის­თვი­საც" - ნათ­ქვა­მია ინ­ფორ­მა­ცი­ა­ში.
+
+        </div>
+
+        <div style="background-color: red;"> 
+            <ul>
+                <li> <a href=" https://www.ambebi.ge/article/299540-sakartveloshi-miciszvra-moxda-zlieri-bizgebi-igrz/ " target="_blank"> საქართველოში მიწისძვრა მოხდა </a> </li>
+                <li> <a href=" https://www.ambebi.ge/article/299540-sakartveloshi-miciszvra-moxda-zlieri-bizgebi-igrz/ " target="_blank"> <img src=" https://cdn.ambebi.ge/media/__thumbs__/images/2022/07-11/miwisdzvra-35154.webp" width="200" height="200"> </a> </li>
+                <li> <img src="photo 1.jpg" alt="no image" width="200" height="200"> </li>
+
+            </ul> 
+        </div>
+
+ 
+    </body>
+
+
+</html>
